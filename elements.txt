@@ -1,0 +1,2124 @@
+~1~
+~Hydrogen~
+~H~
+1.01
+Block: S
+Group: 1
+Period: 1
+Electron configuration: 1s1
+Discovery year: 1774
+Phase: gas
+Melting point (C): -275.14 
+Boiling point (C): -252.74 
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.2
+Decay mode: N/A
+
+~2~
+~Helium~
+~He~
+4.00
+Block: s
+Group: 18
+Period: 2
+Electron Configuration: 1s2
+Discovery year: 1895
+Phase: Gas
+Melting point (C): -272.20
+Boiling point (C): -268.93
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: N/A
+Decay mode: N/A
+
+~3~
+~Lithium~
+~Li~
+6.942
+Block: S
+Group: 1
+Period: 2
+Electron configuration: [He] 2s1
+Discovery year: 1817
+Phase: solid
+Melting point (C): 180.42
+Boiling point (C): 1309 
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: .98
+Decay mode: N/A
+
+~4~
+~Beryllium~
+~Be~
+9.01
+Block: 2
+Group: s
+Period: 2
+Electron Configuration: [He] 2s2
+Discovery year: 1798
+Phase: Solid
+Melting point (C): 1287
+Boiling point (C): 2470
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.57
+Decay mode: N/A
+
+~5~
+~Boron~
+~B~
+10.811
+Block: p
+Group: 13
+Period: 2
+Electron configuration: [He] 2s2 2p1
+Discovery year: 1808
+Phase: solid
+Melting point (C): 2075
+Boiling point (C): 4030 
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.04
+Decay mode: N/A
+
+~6~
+~Carbon~
+~C~
+12.01
+Block: p
+Group: 14
+Period: 2
+Electron Configuration: [He] 2s2 2p2
+Discovery year: 
+Phase: 1789
+Melting point (C): 3551.85
+Boiling point (C): 4827
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.55
+Decay mode: N/A
+
+~7~
+~Nitrogen~
+~N~
+14.0067
+Block: P
+Group: 15
+Period: 2
+Electron configuration: [He] 2s2 2p3
+Discovery year: 1772
+Phase: gas
+Melting point (C): -210.1
+Boiling point (C): -195.79
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 3.04
+Decay mode: N/A
+
+~8~
+~Oxygen~
+~O~
+16.00
+Block: p
+Group: 16
+Period: 2
+Electron Configuration: [He] 2s2 2p4
+Discovery year: 1774
+Phase: Gas
+Melting point (C): -218.3
+Boiling point (C): -182.9
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 3.44
+Decay mode: N/A
+
+~9~
+~Fluorine~
+~F~
+18.998
+Block: P
+Group: 17
+Period: 2
+Electron configuration: [He] 2s2 2p5
+Discovery year: 1886
+Phase: gas
+Melting point (C): -219.6
+Boiling point (C): -188.12
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 3.98
+Decay mode: N/A
+
+~10~
+~Neon~
+~Ne~
+20.18
+Block: p
+Group: 18
+Period: 2
+Electron Configuration: [He] 2s2 2p6
+Discovery year: 1898
+Phase: Gas
+Melting point (C): -248.59
+Boiling point (C): -246.08
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: N/A
+Decay mode: N/A
+
+~11~
+~Sodium~
+~Na~
+22.99
+Block: S
+Group: 1
+Period: 3
+Electron configuration: [Ne] 3s1
+Discovery year: 1807 
+Phase: solid
+Melting point (C): 97.72 
+Boiling point (C): 883 
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 0.93
+Decay mode: N/A
+
+~12~
+~Magnesium~
+~Mg~
+24.31
+Block: s
+Group: 2
+Period: 3
+Electron Configuration: [Ne] 3s2
+Discovery year: 1808
+Phase: Solid
+Melting point (C): 650
+Boiling point (C): 1090
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.31
+Decay mode: N/A
+
+~13~
+~Aluminum~
+~Al~
+26.98
+Block: P
+Group: 13
+Period: 3
+Electron configuration: [Ne] 3s2 3p1
+Discovery year: 1825
+Phase: solid
+Melting point (C): 660.32
+Boiling point (C): 2519
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.61
+Decay mode: N/A
+
+~14~
+~Silicon~
+~Si~
+28.09
+Block: p
+Group: 14
+Period: 3
+Electron Configuration: [Ne] 3s2 3p2
+Discovery year: 1823
+Phase: Solid
+Melting point (C): 1414
+Boiling point (C): 2900
+Radioactive: N/A
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.9
+Decay mode: N/A
+
+~15~
+~Phosphorus~
+~P~
+30.97
+Block: P
+Group: 15
+Period: 3
+Electron configuration: [Ne] 3s2 3p3
+Discovery year: 1669
+Phase: solid
+Melting point (C): 44.15
+Boiling point (C): 280.5
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.19
+Decay mode: N/A
+
+~16~
+~Sulfur~
+~S~
+32.06
+Block: p
+Group: 16
+Period: 3
+Electron Configuration: [Ne] 3s2 3p4
+Discovery year: 1777
+Phase: Solid
+Melting point (C): 115.2
+Boiling point (C): 444.6
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.58
+Decay mode: N/A
+
+~17~
+~Chlorine~
+~Cl~
+30.97
+Block: P
+Group: 17
+Period: 3
+Electron configuration: [Ne] 3s2 3p5
+Discovery year: 1774
+Phase: gas
+Melting point (C): -101.5
+Boiling point (C): -34.04
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 3.16
+Decay mode: N/A
+
+~18~
+~Argon~
+~Ar~
+39.95
+Block: p
+Group: 18
+Period: 3
+Electron Configuration: [Ne] 3s2 3p6
+Discovery year: 1894
+Phase: Gas
+Melting point (C): -189.3
+Boiling point (C): -185.8
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: N/A
+Decay mode: N/A 
+ 
+~19~
+~Potassium~
+~K~
+30.97
+Block: S
+Group: 1
+Period: 4
+Electron configuration: [Ar] 4s1
+Discovery year: 1807
+Phase: solid
+Melting point (C): 63.38
+Boiling point (C): 759
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 0.82
+Decay mode: N/A
+
+~20~
+~Calcium~
+~Ca~
+40.08
+Block: s
+Group: 2
+Period: 4
+Electron Configuration: [Ar] 4s2
+Discovery year: 1808
+Phase: Solid
+Melting point (C): 842
+Boiling point (C): 1484
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1
+Decay mode: N/A
+
+~21~
+~Scandium~
+~Sc~
+30.97
+Block: D
+Group: 3
+Period: 4
+Electron configuration: [Ar] 4s2 3d1
+Discovery year: 1879
+Phase: solid
+Melting point (C): 1541
+Boiling point (C): 2830
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.36
+Decay mode: N/A
+
+~22~
+~Titanium~
+~Ti~
+47.87
+Block: d
+Group: 4
+Period: 4
+Electron Configuration: [Ar] 4s2 3d2
+Discovery year: 1791
+Phase: Solid
+Melting point (C): 1668
+Boiling point (C): 3287
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.54
+Decay mode: N/A
+
+~23~
+~Vanadium~
+~V~
+50.94
+Block: D
+Group: 5
+Period: 4
+Electron configuration: [Ar] 4s2 3d3
+Discovery year: 1830
+Phase: solid
+Melting point (C): 1910
+Boiling point (C): 3407
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.63
+Decay mode: N/A
+
+~24~
+~Chromium~
+~Cr~
+52.00
+Block: d
+Group: 6
+Period: 4
+Electron Configuration:  [Ar] 4s1 3d5
+Discovery year: 1797
+Phase: Solid
+Melting point (C): 1907
+Boiling point (C): 2671
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.66
+Decay mode: N/A
+
+~25~
+~Manganese~
+~Mn~
+54.93
+Block: D
+Group: 7
+Period: 4
+Electron configuration: [Ar] 4s2 3d5
+Discovery year: 1774
+Phase: solid
+Melting point (C): 1246 
+Boiling point (C): 2061
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.55
+Decay mode: N/A
+
+~26~
+~Iron~
+~Fe~
+55.85
+Block: d
+Group: 8
+Period: 4
+Electron Configuration: [Ar] 4s2 3d6
+Discovery year: Unknown
+Phase: Solid
+Melting point (C): 1538
+Boiling point (C): 2861
+Radioactive: N/A
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.38
+Decay mode: N/A
+
+~27~
+~Cobalt~
+~Co~
+58.93
+Block: D
+Group: 9
+Period: 4
+Electron configuration: [Ar] 4s2 3d7
+Discovery year: 1737
+Phase: solid
+Melting point (C): 1495 
+Boiling point (C): 2927 
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.88
+Decay mode: N/A
+
+~28~
+~Nickel~
+~Ni~
+58.71
+Block: d
+Group: 10
+Period: 4
+Electron Configuration: [Ar] 4s2 3d8
+Discovery year: 1751 
+Phase: Solid
+Melting point (C): 1455
+Boiling point (C): 2913
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.91
+Decay mode: N/A
+
+~29~
+~Copper~
+~Cu~
+63.546
+Block: D
+Group: 11
+Period: 4
+Electron configuration: [Ar] 4s2 3d10
+Discovery year: 9000 B.C.
+Phase: solid
+Melting point (C): 1084.62
+Boiling point (C): 2927
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.9
+Decay mode: N/A
+
+~30~
+~Zinc~
+~Zn~
+65.37
+Block: d
+Group: 12
+Period: 4
+Electron Configuration: [Ar] 4s2 3d10
+Discovery year: 1746
+Phase: Solid
+Melting point (C): 419.53
+Boiling point (C): 907
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.65
+Decay mode: N/A
+
+~31~
+~Gallium~
+~Ga~
+69.723
+Block: p
+Group: 13
+Period: 4
+Electron configuration: [Ar] 4s2 3d10 4p1
+Discovery year: 1875
+Phase: Solid
+Melting point (C): 29.76
+Boiling point (C): 2204
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.81
+Decay mode: N/A
+
+~32~
+~Germanium~
+~Ge~
+72.59
+Block: p
+Group: 14
+Period: 4
+Electron Configuration: [Ar] 4s2 3d10 4p2
+Discovery year: 1886
+Phase: Solid
+Melting point (C): 938.3
+Boiling point (C): 2820
+Radioactive: False 
+Half-life: N/A 
+Lifetime: N/A
+Electronegativity: 2.01
+Decay mode: N/A
+
+~33~
+~Arsenic~
+~As~
+74.92160
+Block: p
+Group: 5
+Period: 4
+Electron configuration: [Ar] 4s2 3d10 4p3
+Discovery year: 1250
+Phase: Solid
+Melting point (C): 817
+Boiling point (C): 616
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.18
+Decay mode: N/A
+
+~34~
+~Selenium~
+~Se~
+78.96
+Block: p
+Group: 16
+Period: 4
+Electron Configuration: [Ar] 4s2 3d10 4p4
+Discovery year: 1817
+Phase: Solid
+Melting point (C): 217
+Boiling point (C): 684.9
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.55
+Decay mode: N/A
+
+~35~
+~Bromine~
+~Br~
+79.904
+Block: p
+Group: 7
+Period: 4
+Electron configuration: [Ar] 4s2 3d10 4p5
+Discovery year: 1826
+Phase: Liquid
+Melting point (C): -7.3
+Boiling point (C): 59
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.96
+Decay mode: N/A
+
+~36~
+~Krypton~
+~Kr~
+83.80
+Block: p
+Group: 18
+Period: 4
+Electron Configuration: [Ar] 4s2 3d10 4p6
+Discovery year: 1898
+Phase: Gas
+Melting point (C): -157.36
+Boiling point (C): -153.22
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 3
+Decay mode: N/A
+ 
+~37~
+~Rubidium~
+~Rb~
+85.4678
+Block: s
+Group: 1
+Period: 5
+Electron configuration: [Kr] 5s1
+Discovery year: 1861
+Phase: Solid
+Melting point (C): 39.31
+Boiling point (C): 688
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 0.82
+Decay mode: N/A
+
+~38~
+~Strontium~
+~Sr~
+87.62
+Block: s
+Group: 2
+Period: 5
+Electron Configuration: [Kr] 5s2
+Discovery year: 1790
+Phase: Solid
+Melting point (C): 777
+Boiling point (C): 1382
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 0.95
+Decay mode: N/A
+
+~39~
+~Yttrium~
+~Y~
+88.90585
+Block: d
+Group: 3
+Period: 5
+Electron configuration: [Kr] 5s2 4d1
+Discovery year: 1794
+Phase: Solid
+Melting point (C): 1526
+Boiling point (C): 3345
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.22
+Decay mode: N/A
+
+~40~
+~Zirconium~
+~Zr~
+91.22
+Block: d
+Group: 4
+Period: 5
+Electron Configuration: [Kr] 5s2 4d2
+Discovery year: 1789
+Phase: Solid
+Melting point (C): 1855
+Boiling point (C): 4409
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.66
+Decay mode: N/A
+
+~41~
+~Niobium~
+~Nb~
+92.90638
+Block: d
+Group: 5
+Period: 5
+Electron configuration: [Kr] 5s1 4d4
+Discovery year: 1801
+Phase: Solid
+Melting point (C): 2477
+Boiling point (C): 4744
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.6
+Decay mode: N/A
+
+~42~
+~Molybdenum~
+~Mo~
+95.94
+Block: d
+Group: 6
+Period: 5
+Electron Configuration: [Kr] 5s1 4d5
+Discovery year: 1778
+Phase: Solid
+Melting point (C): 2623
+Boiling point (C): 4639
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.16
+Decay mode: N/A
+
+~43~
+~Technetium~
+~Tc~
+98.00
+Block: d
+Group: 7
+Period: 5
+Electron configuration: [Kr] 5s2 4d5
+Discovery year: 1937
+Phase: Solid
+Melting point (C): 2157
+Boiling point (C): 4265
+Radioactive: True
+Half-life: 4.1 million years
+Lifetime: 6 million years
+Electronegativity: 1.9
+Decay mode: Beta decay
+
+~44~
+~Ruthenium~
+~Ru~
+101.07
+Block: d
+Group: 8
+Period: 5
+Electron Configuration: [Kr] 5s1 4d7
+Discovery year: 1844
+Phase: Solid
+Melting point (C): 2334
+Boiling point (C): 4150
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.2
+Decay mode: N/A
+
+~45~
+~Rhodium~
+~Rh~
+102.90550
+Block: d
+Group: 9
+Period: 5
+Electron configuration: [Kr] 5s1 4d8
+Discovery year: 1803
+Phase: Solid
+Melting point (C): 1964
+Boiling point (C): 3695
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.28
+Decay mode: N/A
+
+~46
+~Palladium~
+~Pd~
+106.42
+Block: 10
+Group: d
+Period: 5
+Electron Configuration: [Kr] 4d10
+Discovery year: 1803
+Phase: Solid
+Melting point (C): 1554.9
+Boiling point (C): 2963
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.2
+Decay mode: N/A
+
+~47~
+~Silver~
+~Ag~
+107.8682
+Block: d
+Group: 11
+Period: 3
+Electron configuration: [Kr] 5s1 4d10
+Discovery year: 3000 BC
+Phase: Solid
+Melting point (C): 961.78
+Boiling point (C): 2162
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.93
+Decay mode: N/A
+
+~48~
+~Cadmium~
+~Cd~
+112.41
+Block: d
+Group: 12
+Period: 5
+Electron Configuration: [Kr] 5s2 4d10 
+Discovery year: 1817
+Phase: Solid
+Melting point (C): 321.07
+Boiling point (C): 767
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.69
+Decay mode: N/A
+
+~49~
+~Indium~
+~In~
+114.818
+Block: p
+Group: 13
+Period: 5
+Electron configuration: [Kr] 5s2 4d10 5p1
+Discovery year: 1863
+Phase: Solid
+Melting point (C): 156.6
+Boiling point (C): 2072
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.78
+Decay mode: N/A
+
+~50~
+~Tin~
+~Sn~
+118.71
+Block: p
+Group: 14
+Period: 5
+Electron Configuration: [Kr] 5s2 4d10 5p2
+Discovery year: Unknown
+Phase: Solid
+Melting point (C): 231.9
+Boiling point (C): 5602.85
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.96
+Decay mode: N/A
+
+~51~
+~Antimony~
+~Sb~
+121.760
+Block: p
+Group: 15
+Period: 5
+Electron configuration: [Kr] 5s2 4d10 5p3
+Discovery year: 3000 BC
+Phase: Solid
+Melting point (C): 630.63
+Boiling point (C): 1587
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.05
+Decay mode: N/A
+
+~52~
+~Tellurium~
+~Te~
+127.60
+Block: p
+Group: 16
+Period: 5
+Electron Configuration: [Kr] 5s2 4d10 5p4
+Discovery year: 1782
+Phase: Solid
+Melting point (C): 449.51
+Boiling point (C): 988
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.1
+Decay mode: N/A
+
+~53~
+~Iodine~
+~I~
+126.90447
+Block: p
+Group: 17
+Period: 5
+Electron configuration: [Kr] 5s2 4d10 5p5
+Discovery year: 1811
+Phase: Solid
+Melting point (C): 113.7
+Boiling point (C): 184.3
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.66
+Decay mode: N/A
+
+~54~
+~Xenon~
+~Xe~
+131.29
+Block: p
+Group: 18
+Period: 5
+Electron Configuration: [Kr] 5s2 4d10 5p6
+Discovery year: 1898
+Phase: Gas
+Melting point (C): -111.8
+Boiling point (C): -108
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.6
+Decay mode: N/A 
+ 
+~55~
+~Cesium~
+~Cs~
+132.9054519
+Block: s
+Group: 1
+Period: 6
+Electron configuration: [Xe] 6s1
+Discovery year: 1860
+Phase: Solid
+Melting point (C): 28.44
+Boiling point (C): 671
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 0.79
+Decay mode: N/A
+
+~56~
+~Barium~
+~Ba~
+137.32
+Block: s
+Group: 2
+Period: 6
+Electron Configuration: [Xe] 6s2
+Discovery year: 1808
+Phase: Solid
+Melting point (C): 727
+Boiling point (C): 1870
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 0.89
+Decay mode: N/A
+
+~57~
+~Lanthanum~
+~La~
+138.90547
+Block: f
+Group: N/A
+Period: 6
+Electron configuration: [Xe] 6s2 5d1
+Discovery year: 1839
+Phase: Solid
+Melting point (C): 920
+Boiling point (C): 3464
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.1
+Decay mode: N/A
+
+~58~
+~Cerium~
+~Ce~
+140.12
+Block: f
+Group: N/A
+Period: 6
+Electron Configuration: [Xe] 6s2 4f1 5d1
+Discovery year: 1803
+Phase: Solid
+Melting point (C): 798
+Boiling point (C): 3360
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.12
+Decay mode: N/A
+
+~59~
+~Praseodymium~
+~Pr~
+140.90765
+Block: f
+Group: N/A
+Period: 6
+Electron configuration: [Xe] 6s2 4f3
+Discovery year: 1885
+Phase: Solid
+Melting point (C): 931
+Boiling point (C): 3290
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.13
+Decay mode: N/A
+
+~60~
+~Neodymium~
+~Nd~
+144.24
+Block: f
+Group: N/A
+Period: 6
+Electron Configuration: [Xe] 6s2 4f4
+Discovery year: 1885
+Phase: Solid
+Melting point (C): 1021
+Boiling point (C): 3100
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.14
+Decay mode: N/A
+
+~61~
+~Promethium~
+~Pm~
+145
+Block: f
+Group: N/A
+Period: 6
+Electron configuration: [Xe] 6s2 4f5
+Discovery year: 1945
+Phase: Solid
+Melting point (C): 1100
+Boiling point (C): 3000
+Radioactive: True
+Half-life: 17.7 years
+Lifetime: 25.6 years
+Electronegativity: N/A
+Decay mode: Electron capture
+
+~62~
+~Samarium~
+~Sm~
+150.36
+Block: f
+Group: N/A
+Period: 6
+Electron Configuration: [Xe] 6s2 4f6
+Discovery year: 1879
+Phase: Solid
+Melting point (C): 1072
+Boiling point (C): 1803
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.17
+Decay mode: N/A
+
+~63~
+~Europium~
+~Eu~
+151.964
+Block: f
+Group: N/A
+Period: 6
+Electron configuration: [Xe] 6s2 4f7
+Discovery year: 1901
+Phase: Solid
+Melting point (C): 822
+Boiling point (C): 1527
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: N/A
+Decay mode: N/A
+
+~64~
+~Gadolinium~
+~Gd~
+157.25
+Block: f
+Group: N/A
+Period: 6
+Electron Configuration: [Xe] 6s2 4f7 5d1
+Discovery year: 1880
+Phase: Solid
+Melting point (C): 1313
+Boiling point (C): 3250
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.2
+Decay mode: N/A
+
+~65~
+~Terbium~
+~Tb~
+158.92535
+Block: f
+Group: N/A
+Period: 6
+Electron configuration: [Xe] 6s2 4f9
+Discovery year: 1843
+Phase: Solid
+Melting point (C): 1356
+Boiling point (C): 3230
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: N/A
+Decay mode: N/A
+
+~66~
+~Dysprosium~
+~Dy~
+162.50
+Block: f
+Group: N/A
+Period: 6
+Electron Configuration: [Xe] 6s2 4f10
+Discovery year: 1886
+Phase: Solid
+Melting point (C): 1412
+Boiling point (C): 2567
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.22
+Decay mode: N/A
+
+~67~
+~Holmium~
+~Ho~
+164.93032
+Block: f
+Group: N/A
+Period: 6
+Electron configuration: [Xe] 6s2 4f11
+Discovery year: 1878
+Phase: Solid
+Melting point (C): 1474
+Boiling point (C): 2700
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.23
+Decay mode: N/A
+
+~68~
+~Erbium~
+~Er~
+167026
+Block: f
+Group: N/A
+Period: 6
+Electron Configuration: [Xe] 6s2 4f12
+Discovery year: 1843
+Phase: Solid
+Melting point (C): 1497
+Boiling point (C): 2868
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.24
+Decay mode: N/A
+
+~69~
+~Thulium~
+~Tm~
+168.93421
+Block: f
+Group: N/A
+Period: 6
+Electron configuration: [Xe] 6s2 4f13
+Discovery year: 1879
+Phase: Solid
+Melting point (C): 1545
+Boiling point (C): 1950
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.25
+Decay mode: N/A
+
+~70~
+~Ytterbium~
+~Yb~
+173.04
+Block: f
+Group: N/A
+Period: 6
+Electron Configuration: [Xe] 6s2 4f14
+Discovery year: 1878
+Phase: Solid
+Melting point (C): 819
+Boiling point (C): 1196
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.1
+Decay mode: N/A
+
+~71~
+~Lutetium~
+~Lu~
+1174.9668
+Block: d
+Group: 3
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d1
+Discovery year: 1907
+Phase: Solid
+Melting point (C): 1663
+Boiling point (C): 3402
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.27
+Decay mode: N/A
+
+~72~
+~Hafnium~
+~Hf~
+178.49
+Block: d
+Group: 4
+Period: 6
+Electron Configuration: [Xe] 6s2 4f14 5d2
+Discovery year: 1923
+Phase: Solid
+Melting point (C): 2633
+Boiling point (C): 4603
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.3
+Decay mode: N/A
+
+~73~
+~Tantalum~
+~Ta~
+180.94788
+Block: d
+Group: 5
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d3
+Discovery year: 1802
+Phase: Solid
+Melting point (C): 3017
+Boiling point (C): 5458
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.5
+Decay mode: N/A
+
+~74~
+~Tungsten~
+~W~
+183.94
+Block: d
+Group: 6
+Period: 6
+Electron Configuration: [Xe] 6s2 4f14 5d4
+Discovery year: 1783
+Phase: Solid
+Melting point (C): 3422
+Boiling point (C): 5555
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.36
+Decay mode: N/A
+
+~75~
+~Rhenium~
+~Re~
+186.207
+Block: d
+Group: 7
+Period: 6 
+Electron configuration: [Xe] 6s2 4f14 5d5
+Discovery year: 1925
+Phase: Solid
+Melting point (C): 3186
+Boiling point (C): 5596
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.9
+Decay mode: N/A
+
+~76~
+~Osmium~
+~Os~
+190.23
+Block: d
+Group: 8
+Period: 6
+Electron Configuration: [Xe] 6s2 4f14 5d6
+Discovery year: 1803
+Phase: Solid
+Melting point (C): 3033
+Boiling point (C): 5012
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.2
+Decay mode: N/A
+
+~77~
+~Iridium~
+~Ir~
+192.217
+Block: d
+Group: 9
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d7
+Discovery year: 1803
+Phase: Solid
+Melting point (C): 2466
+Boiling point (C): 4428
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.2
+Decay mode: N/A
+
+~78~
+~Platinum~
+~Pt~
+195.08
+Block: d
+Group: 10
+Period: 6
+Electron Configuration: [Xe] 6s1 4f14 5d9
+Discovery year: 1735
+Phase: Solid
+Melting point (C): 1768.3
+Boiling point (C): 3825
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.28
+Decay mode: N/A
+
+~79
+~Gold~
+~Au~
+196.966569
+Block: d
+Group: 11
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d10
+Discovery year: 2500 BC
+Phase: Solid
+Melting point (C): 1064.18
+Boiling point (C): 2856
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.54
+Decay mode: N/A
+
+~80~
+~Mercury~
+~Hg~
+200.59
+Block: d
+Group: 12
+Period: 6
+Electron Configuration: [Xe] 6s2 4f14 5d10
+Discovery year: Unknown
+Phase: Liquid
+Melting point (C): -38.83
+Boiling point (C): 356.73
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2
+Decay mode: N/A
+
+~81~
+~Thallium~
+~Tl~
+204.3833
+Block: p
+Group: 13
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d10 6p1
+Discovery year: 1861
+Phase: Solid
+Melting point (C): 304
+Boiling point (C): 1473
+Radioactive: False
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 1.62
+Decay mode: N/A
+
+~82~
+~Lead~
+~Pb~
+207.20
+Block: p
+Group: 14
+Period: 6
+Electron Configuration: [Xe] 6s2 4f14 5d10 6p2
+Discovery year: Unknown
+Phase: Solid
+Melting point (C): 327.56
+Boiling point (C): 1749
+Radioactive: False 
+Half-life: N/A
+Lifetime: N/A
+Electronegativity: 2.33
+Decay mode: N/A
+
+~83~
+~Bismuth~
+~Bi~
+209
+Block: p
+Group: 15
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d10 6p3
+Discovery year: 1400
+Phase: Solid
+Melting point (C): 271.3
+Boiling point (C): 1564
+Radioactive: True
+Half-life: 1.9 x 10^19 years
+Lifetime: 2.8 x 10^19 years
+Electronegativity: 1.62
+Decay mode: Alpha emission
+
+~84~
+~Polonium~
+~Po~
+209
+Block: p
+Group: 16
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d10 6p4
+Discovery year: 1898
+Phase: Solid
+Melting point (C): 254
+Boiling point (C): 962
+Radioactive: True
+Half-life: 102 years
+Lifetime: 147 years
+Electronegativity: 2.33
+Decay mode: Alpha emission
+
+~85~
+~Astatine~
+~At~
+210
+Block: p
+Group: 17
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d10 6p5
+Discovery year: 1940
+Phase: Solid
+Melting point (C): 302
+Boiling point (C): 
+Radioactive: True
+Half-life: 8.1 hours
+Lifetime: 12 hours
+Electronegativity: 2.02
+Decay mode: Beta plus decay
+
+~86~
+~Radon~
+~Rn~
+222
+Block: p
+Group: 18
+Period: 6
+Electron configuration: [Xe] 6s2 4f14 5d10 6d6
+Discovery year: 1900
+Phase: Gas
+Melting point (C): -71
+Boiling point (C): -61.7
+Radioactive: True
+Half-life: 91.7639 hours
+Lifetime: 132.386 hours
+Electronegativity: 2
+Decay mode: Alpha emission
+
+~87~
+~Francium~
+~Fr~
+223
+Block: s
+Group: 1
+Period: 7
+Electron configuration: [Rn] 7s1
+Discovery year: 1939
+Phase: Solid
+Melting point (C): 
+Boiling point (C): 
+Radioactive: True
+Half-life: 22 minutes
+Lifetime: 32 minutes
+Electronegativity: 2.2
+Decay mode: Beta decay
+
+~88~
+~Radium~
+~Ra~
+226
+Block: s
+Group: 2
+Period: 7
+Electron configuration: [Rn] 7s2
+Discovery year: 1898
+Phase: Solid
+Melting point (C): 700
+Boiling point (C): 1737
+Radioactive: True
+Half-life: 16 centuries
+Lifetime: 23 centuries
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~89~
+~Actinium~
+~Ac~
+227
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f1
+Discovery year: 1899
+Phase: Solid
+Melting point (C): 1050
+Boiling point (C): 3200
+Radioactive: True
+Half-life: 21.787 years
+Lifetime: 31.431 years
+Electronegativity: 0.7
+Decay mode: Beta decay
+
+~90~
+~Thorium~
+~Th~
+232
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f2
+Discovery year: 1829
+Phase: Solid
+Melting point (C): 1750
+Boiling point (C): 4820
+Radioactive: True
+Half-life: 14.06 billion years
+Lifetime: 20.28 billion years
+Electronegativity: 0.89
+Decay mode: Alpha emission
+
+~91~
+~Protactinium~
+~Pa~
+231
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f3
+Discovery year: 1913
+Phase: Solid
+Melting point (C): 1572
+Boiling point (C): 4000
+Radioactive: True
+Half-life: 327.9 centuries
+Lifetime: 472.8 centuries
+Electronegativity: 1.1
+Decay mode: Alpha emission
+
+~92~
+~Uranium~
+~U~
+238
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f4
+Discovery year: 1789
+Phase: Solid
+Melting point (C): 1135
+Boiling point (C): 3927
+Radioactive: True
+Half-life: 4.47 billion years
+Lifetime: 6.45 billion years
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~93~
+~Neptunium~
+~Np~
+237
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f5
+Discovery year: 1940
+Phase: Solid
+Melting point (C): 644
+Boiling point (C): 4000
+Radioactive: True
+Half-life: 2.145 million years
+Lifetime: 3.095 million years
+Electronegativity: 1.5
+Decay mode: Alpha emission
+
+~94~
+~Plutonium~
+~Pu~
+244
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f6
+Discovery year: 1940
+Phase: Solid
+Melting point (C): 640
+Boiling point (C): 3230
+Radioactive: True
+Half-life: 79 million years
+Lifetime: 110 million years
+Electronegativity: 1.38
+Decay mode: Alpha emission
+
+~95~
+~Americium~
+~Am~
+243
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f7
+Discovery year: 1944
+Phase: Solid
+Meling point (C): 1176
+Boiling point (C): 2011
+Radioactive: True
+Half-life: 73.9 centuries
+Lifetime: 107 centuries
+Electronegativity: 1.36
+Decay mode: Alpha emission
+
+~96~
+~Curium~
+~Cm~
+247
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f7 6d1
+Discovery year: 1944
+Phase: Solid
+Melting point (C): 1345 C
+Boiling point (C): 3110 C
+Radioactive: True
+Half-life: 15.6 million years
+Lifetime: 23 million years
+Electronegativity: 1.28
+Decay mode: Alpha emission
+
+~97~
+~Berkelium~
+~Bk~
+247
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f9
+Discovery year: 1949
+Phase: Solid
+Melting point (C): 986
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 13.8 centuries
+Lifetime: 19.9 centuries
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~98~
+~Californium~
+~Cf~
+251
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f10
+Discovery year: 1950
+Phase: Solid
+Melting point (C): 900
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 9.01 centuries
+Lifetime: 13 centuries
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~99~
+~Einsteinium~
+~Es~
+252
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f11
+Discovery year: 1952
+Phase: Solid
+Melting point (C): 860
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 471.6 days
+Lifetime: 1.86 years
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~100~
+~Fermium~
+~Fm~
+257
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f12
+Discovery year: 1952
+Phase: Solid
+Melting point (C): 1527
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 100.5 days
+Lifetime: 145 days
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~101~
+~Mendelevium~
+~Md~
+258
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f13
+Discovery year: 1955
+Phase: Solid
+Melting point (C): 827
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 51.5 days
+Lifetime: 74.3 days
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~102~
+~Nobelium~
+~No~
+259
+Block: f
+Group: N/A
+Period: 7
+Electron configuration: [Rn] 7s2 5f14
+Discovery year: 1958
+Phase: Solid
+Melting point (C): 827
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 170 minutes
+Lifetime: 5.6 hours
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~103~
+~Lawrencium~
+~Lr~
+262
+Block: d
+Group: 3
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 7p1
+Discovery year: 1961
+Phase: Solid
+Melting point (C): 1627
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 10 hours
+Lifetime: 14 hours
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~104~
+~Rutherfordium~
+~Rf~
+265
+Block: d
+Group: 4
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d2
+Discovery year: 1964
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 13 hours
+Lifetime: 19 hours
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~105~
+~Dubnium~
+~Db~
+268
+Block: d
+Group: 5
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d3
+Discovery year: 1967
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 5.6 hours
+Lifetime: 8.3 hours
+Electronegativity: 1.3
+Decay mode: Alpha emission
+
+~106~
+~Seaborgium~
+~Sg~
+271
+Block: d
+Group: 6
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d4
+Discovery year: 1974
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 120 minutes
+Lifetime: 170 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~107~
+~Bohrium~
+~Bh~
+272
+Block: d
+Group: 7
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d5
+Discovery year: 1981
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 90 minutes
+Lifetime: 130 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~108~
+~Hassium~
+~Hs~
+270
+Block: d
+Group: 8
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d6
+Discovery year: 1984
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 67 minutes
+Lifetime: 83 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~109~
+~Meitnerium~
+~Mt~
+276
+Block: d
+Group: 9
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d7
+Discovery year: 1982
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 30 minutes
+Lifetime: 43 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~110~
+~Darmstadtium~
+~Ds~
+281
+Block: d
+Group: 10
+Period: 7
+Electron configuration: [Rn] 7s1 5f14 6d9
+Discovery year: 1994
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 4 minutes
+Lifetime: 5.83 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~111~
+~Roentgenium~
+~Rg~
+280
+Block: d
+Group: 11
+Period: 7
+Electron configuration: [Rn] 7s1 5f14 6d10
+Discovery year: 1994
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 10 minutes
+Lifetime: 14.5 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~112~
+~Copernicium~
+~Cn~
+285
+Block: d
+Group: 12
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d10
+Discovery year: 1996
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 40 minutes
+Lifetime: 58 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~113~
+~Ununtrium~
+~Uut~
+284
+Block: p
+Group: 13
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d10 7p1
+Discovery year: 1998
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 20 minutes
+Lifetime: 28 minutes
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~114~
+~Ununquadium~
+~Uuq~
+289
+Block: p
+Group: 14
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d10 7p2
+Discovery year: 1999
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 80 seconds
+Lifetime: 120 seconds
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~115~
+~Ununpentium~
+~Uup~
+288
+Block: p
+Group: 15
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d10 7p3
+Discovery year: 2004
+Phase: Solid
+Melting point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 60 seconds
+Lifetime: 90 seconds
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~116~
+~Ununhexium~
+~Uuh~
+292
+Block: p
+Group: 16
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d10 7p4
+Discovery year: 2000
+Phase: Solid
+Meling point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 120 milliseconds
+Lifetime: 173 milliseconds
+Electronegativity: N/A
+Decay mode: Alpha emission
+
+~117~
+~Ununseptium~
+~Uus~
+294
+Block: p
+Group: 17
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d10 7p5
+Discovery year: 2010
+Phase: Solid
+Meling point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 50 milliseconds
+Lifetime: 72 milliseconds
+Electronegativity: N/A
+Decay mode: 
+
+~118~
+~Ununoctium~
+~Uuo~
+294
+Block: p
+Group: 18
+Period: 7
+Electron configuration: [Rn] 7s2 5f14 6d10 7p6
+Discovery year: 2006
+Phase: Gas
+Meling point (C): Unknown
+Boiling point (C): Unknown
+Radioactive: True
+Half-life: 5 milliseconds
+Lifetime: 7 milliseconds
+Electronegativity: N/A
+Decay mode: Alpha emission
+
